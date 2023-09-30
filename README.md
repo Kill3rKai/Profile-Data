@@ -2,7 +2,7 @@
 #### I Am A Senior High Student Who Likes To Code
 I Do Courses For Programming Languages in My Free Time.
 Coding Is My Hobby And I Enjoy It
-I Have Certificates In: C# ; SQL ; JS ; Java ; C ; C++
+I Have Certificates In: C# ; SQL ; Js ; Java ; C ; C++
 
 Skills: C / C++ / C# / Java / SQL 
 
