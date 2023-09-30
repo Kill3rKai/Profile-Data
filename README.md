@@ -14,6 +14,5 @@ Skills: C / C++ / C# / Java / SQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kill3rKai)  
-(https://github-readme-stats.vercel.app/api?username=Kill3rKai)](https://github.com/anuraghazra/github-readme-stats)
 (https://github-readme-stats.vercel.app/api?username=Kill3rKai&show_icons=true&theme=dark)
 
