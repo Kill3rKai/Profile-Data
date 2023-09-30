@@ -20,4 +20,8 @@ Coding Is My Hobby And I Enjoy It
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on AI 
 - 🤔 I’m looking for help with Machine Learning / AI 
-- 📫 How to reach me: Kill3rKai.business@outlook.com 
+- 📫 How to reach me: Kill3rKai.business@outlook.com
+
+## Data
+Working On This As All My Repos Are Private Other Than This
+(https://github-readme-stats.vercel.app/api?username=Kill3rKai)](https://github.com/anuraghazra/github-readme-stats)
