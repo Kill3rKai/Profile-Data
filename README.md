@@ -12,6 +12,6 @@ Skills: C / C++ / C# / Java / SQL
 - 🤔 I’m looking for help with Machine Learning / AI 
 - 📫 How to reach me: Kill3rKai.business@outlook.com 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kill3rKai)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Kill3rKai)](https://github.com/anuraghazra/github-readme-stats)
 (https://github-readme-stats.vercel.app/api?username=Kill3rKai&show_icons=true&theme=dark)
 
