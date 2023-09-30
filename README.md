@@ -24,4 +24,4 @@ Coding Is My Hobby And I Enjoy It
 
 ## Data
 Working On This As All My Repos Are Private Other Than This
-(https://github-readme-stats.vercel.app/api?username=Kill3rKai)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Kill3rKai)]
