@@ -16,10 +16,7 @@ Coding Is My Hobby And I Enjoy It
 * Java
 * SQL 
 ## Basic Information
-- 🔭 I’m currently working on Machine Learning / AI 
-- 🌱 I’m currently learning Artificial Intelligence 
-- 👯 I’m looking to collaborate on AI 
-- 🤔 I’m looking for help with Machine Learning / AI 
+- 🔭 I’m currently working on Machine Learning / AI (As I Am Bulding My Own)
 - 📫 How to reach me: Kill3rKai.business@outlook.com
 
 ## "Business Email" |  S2FpUmFtcHVyc2F0@protonmail.com
