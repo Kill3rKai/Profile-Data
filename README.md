@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name Is Kai
 #### I Am Someone Who Likes To Code And Enjoys It
-I Do Courses For Programming Languages in My Free Time.
+I Do Online Courses For Programming Languages And Cyber Security in My Free Time.
 Coding Is My Hobby And I Enjoy It
 ## I Have Certificates In:
 * C#
